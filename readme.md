@@ -98,10 +98,6 @@
         *   Key difference: Centralizes control over cryptographic keys used to protect data.
 6.  **Management Tools:**
     
-    *   **CloudWatch:**
-        
-        *   Monitoring and management service.
-        *   Key difference: Collects and tracks metrics, monitors log files, and sets alarms.
     *   **CloudTrail:**
         
         *   Logs and monitors AWS account activity.
@@ -139,8 +135,6 @@
         *   Business intelligence service.
         *   Key difference: Easily creates and publishes interactive dashboards.
 9.  **AI and Machine Learning:**
-
-
 10. **Integration Services:**
     
     *   **SQS (Simple Queue Service):**
