@@ -1,0 +1,1 @@
+**Elastic Load Balancer (ELB):** Distributes incoming application traffic across multiple targets.
