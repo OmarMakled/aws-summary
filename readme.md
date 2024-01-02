@@ -139,45 +139,8 @@
         *   Business intelligence service.
         *   Key difference: Easily creates and publishes interactive dashboards.
 9.  **AI and Machine Learning:**
-    
-    *   **SageMaker:**
-        
-        *   Build, train, and deploy machine learning models.
-        *   Key difference: Simplifies the process of building, training, and deploying ML models.
-    *   **Comprehend:**
-        
-        *   Natural language processing.
-        *   Key difference: Extracts insights and relationships from text.
-    * **Comprehend Medical** 
 
-        * is a natural language processing (NLP) service provided by Amazon Web Services (AWS) that is designed to extract relevant medical information from unstructured text, such as clinical notes or medical records. The service utilizes machine learning algorithms to identify and organize key medical entities and relationships within the text
-        
-    *   **Rekognition:**
-        
-        *   Image and video analysis.
-        *   Key difference: Identifies objects, people, text, scenes, and activities in images and videos.
 
-    * **Transcribe:** 
-    
-        * offers automatic speech recognition, converting spoken language to written text. Ideal for transcription needs in meetings, interviews, customer support calls, content creation, and accessibility enhancements such as closed captions for videos
-    * **Polly:** 
-    
-        * is a text-to-speech service designed to convert written text into natural-sounding speech. It finds application in scenarios requiring voice generation for various purposes
-
-    * **Translate:** 
-        * is a neural machine translation service designed to translate text between languages, facilitating multilingual content deployment.
-    * **Lex&Connect**
-    
-        * offer powerful solutions for building conversational interfaces and managing customer interactions in contact centers.
-        * Key difference: Lex focuses on **chatbot** development across multiple platforms Connect is specialized for cloud-based contact center solutions with an emphasis on **real-time analytics and flexibility**.
-    
-    * **AWS Forecast** 
-
-        * simplifies the process of creating accurate forecasts by leveraging machine learning techniques, making it accessible to a wide range of users for various business applications
-    * **Kendra** 
-
-        * Fully managed **document search service** extract answers from within a document (text,pdf,html,....) 
-        * An enterprise search service provided by Amazon Web Services (AWS). It utilizes natural language processing and machine learning to enable more effective and intuitive search experiences within organizations
 10. **Integration Services:**
     
     *   **SQS (Simple Queue Service):**
