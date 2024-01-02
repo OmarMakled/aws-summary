@@ -1,0 +1,1 @@
+**Amazon Redshift:** Fully managed data warehouse for analytics.
