@@ -127,7 +127,7 @@
         
         *   Image and video analysis.
         *   Key difference: Identifies objects, people, text, scenes, and activities in images and videos.
-10.  **Integration Services:**
+10. **Integration Services:**
     
     *   **SQS (Simple Queue Service):**
         
