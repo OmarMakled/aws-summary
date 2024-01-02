@@ -174,7 +174,10 @@
     * **AWS Forecast** 
 
         * simplifies the process of creating accurate forecasts by leveraging machine learning techniques, making it accessible to a wide range of users for various business applications
+    * **Kendra** 
 
+        * Fully managed **document search service** extract answers from within a document (text,pdf,html,....) 
+        * An enterprise search service provided by Amazon Web Services (AWS). It utilizes natural language processing and machine learning to enable more effective and intuitive search experiences within organizations
 10. **Integration Services:**
     
     *   **SQS (Simple Queue Service):**
