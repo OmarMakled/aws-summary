@@ -47,6 +47,27 @@
 
         * Fully managed, scalable NoSQL database compatible with MongoDB.
         * Key difference: Managed NoSQL service for MongoDB compatibility, offering scalability and ease of use.
+    * **ElastiCache**
+
+        * In-memory data store service (Redis, Memcached).
+        * Key difference: Improves application performance by caching frequently accessed data.
+    * **Neptune**
+
+        * Fully managed graph database service
+        * Key Difference: Specialized for graph data and relationships, offering support for both Property Graph and RDF graph models.
+
+    * **QLDB**
+
+        *  Fully managed ledger database service for maintaining a transparent and immutable history of changes to application data.
+        * Key Difference: Specialized for maintaining an immutable and transparent ledger of all changes to application data.
+    *  **KeySpaces**
+
+        * Managed Apache Cassandra-compatible database service.
+        * Key Difference: A fully managed, serverless Cassandra-compatible database service designed for applications with NoSQL requirements
+    * **TimeStream**
+
+        * Managed time-series database designed for IoT, operational monitoring, and analytics workloads.
+        * Key Difference: Specialized for time-series data storage and analytics, providing serverless scalability and retention policy management.
 4.  **Networking:**
     
     *   **VPC (Virtual Private Cloud):**
