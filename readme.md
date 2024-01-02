@@ -43,6 +43,10 @@
         
         *   MySQL and PostgreSQL-compatible relational database.
         *   Key difference: Offers high performance and availability with automatic replication and failover.
+    *   **DocumentDB**
+
+        * Fully managed, scalable NoSQL database compatible with MongoDB.
+        * Key difference: Managed NoSQL service for MongoDB compatibility, offering scalability and ease of use.
 4.  **Networking:**
     
     *   **VPC (Virtual Private Cloud):**
